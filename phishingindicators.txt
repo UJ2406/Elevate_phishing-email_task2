@@ -1,0 +1,22 @@
+Phishing Indicators Identified:
+
+1. Spoofed sender domain: amaz0n-verification.com (typosquatting '0' instead of 'o')
+2. No DMARC policy published; domain not protected
+3. Failed SPF authentication on sending IP
+4. No DKIM signature; authentication failed
+5. Sending IP flagged as suspicious/blacklisted
+6. Use of PHP mailer script indicating mass phishing/spam
+7. Urgent and threatening subject line ("URGENT: Your Account Has Been Suspended")
+8. Generic greeting ("Dear Valued Customer") used
+9. Grammar and spelling mistakes ("temporarely", "permanantly")
+10. Requests for sensitive personal information (Name, address, CC number, CVV, SSN, password)
+11. Suspicious URLs with typosquatting and unsecure HTTP links
+12. Use of URL shortener (bit.ly) hiding actual destination
+13. False claims of secure email server
+14. Fear-inducing content about legal actions and account termination
+15. Use of social engineering tactics like urgency, authority, and loss aversion
+16. Mismatch between displayed link text and actual link URL
+17. Use of unencrypted and non-legitimate domains for phishing
+
+Recommendation:  
+Always verify email authenticity via headers and content; never click suspicious links or respond to unsolicited sensitive data requests. Report phishing immediately.

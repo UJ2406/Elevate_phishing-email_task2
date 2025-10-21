@@ -1,0 +1,12 @@
+Return-Path: <security-team@amaz0n-verification.com>
+Received: from unknown (HELO amaz0n-verification.com) (123.45.67.89)
+    by mail.customer.com with SMTP; 15 Jan 2025 03:42:00 +0000
+From: "Amazon Security Team" <security-team@amaz0n-verification.com>
+Reply-To: security-team@amaz0n-verification.com
+To: customer@email.com
+Date: Wed, 15 Jan 2025 03:42:00 +0000
+Subject: URGENT: Your Amazon Account Has Been Suspended - Immediate Action Required!
+Message-ID: <20250115034200.12345@amaz0n-verification.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+X-Mailer: PHP/7.3
