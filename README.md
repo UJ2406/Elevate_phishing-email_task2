@@ -129,7 +129,7 @@ Attackers manipulate urgency, fear, authority, and personalize attacks to bypass
 cybersecurity-task2-phishing-mail/
 ├── README.md           # This file - Complete documentation
 ├── phishingemail.txt   # Full sample email
-├── emailheaders.txt    # Raw headers for analysis
+├── phishemailheaders.txt    # Raw headers for analysis
 ├── analysisreport.txt  # Detailed findings
 ├── phishingindicators.txt  # List of red flags
 └── image.png           # Screenshot of scan execution
